@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.btn-group {
+    padding: 2px;
+    justify-content: space-between;
+}
+
+.btn-info {
+    background-color: skyblue;
+    color: white;
+}
+
+.btn-info:hover {
+    background-color: #92b8e0;
+}
